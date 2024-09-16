@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hi there My name is Joey👋
+🔭 I’m currently working on an OCN 479 class
+🌱 I’m currently learning how to create sensors!!
 <!--
 **Joeydunn/joeydunn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
